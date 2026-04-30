@@ -1,0 +1,23 @@
+# Arduino build output
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino IDE temp files
+*.bak
+
+# Third-party reference files (from dji-firmware-tools — not redistributed)
+BQ30z554.py
+BQ40z307.py
+BQ40z50.py
+comm_sbs_bqctrl.py
+test_comm_sbs_bqctrl*.py
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
