@@ -153,7 +153,6 @@ After a chip reset, the BMS comes back in normal operating mode with PF cleared,
 
 - [dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) by mefistotelis — BQ40Z307 register map and SMBus protocol implementation used to identify the correct key order and PF reset command (`0x0029`)
 - [dji-firmware-tools issue #258](https://github.com/o-gs/dji-firmware-tools/issues/258) — community confirmation of the `0xCCDF7EE0` unseal key
-- [Texas Instruments BQ40Z307 Technical Reference](https://www.ti.com/product/BQ40Z307)
 
 ---
 
